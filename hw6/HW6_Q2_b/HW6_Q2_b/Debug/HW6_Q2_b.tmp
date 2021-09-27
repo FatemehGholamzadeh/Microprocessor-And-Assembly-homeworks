@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Mobasher\Documents\Atmel Studio\6.1\HW6_Q2_b\HW6_Q2_b\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Mobasher\Documents\Atmel Studio\6.1\HW6_Q2_b\HW6_Q2_b\HW6_Q2_b.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Mobasher\Documents\Atmel Studio\6.1\HW6_Q2_b\HW6_Q2_b\Debug/HW6_Q2_b.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW6_Q2_b.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW6_Q2_b.map</FILE>
+  <FILE>HW6_Q2_b.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Mobasher\Documents\Atmel Studio\6.1\HW6_Q2_b\HW6_Q2_b\HW6_Q2_b.asm</FILE><LINE>14</LINE></reset>
+  <start><FILE>C:\Users\Mobasher\Documents\Atmel Studio\6.1\HW6_Q2_b\HW6_Q2_b\HW6_Q2_b.asm</FILE><LINE>41</LINE></start>
+  <SW1><FILE>C:\Users\Mobasher\Documents\Atmel Studio\6.1\HW6_Q2_b\HW6_Q2_b\HW6_Q2_b.asm</FILE><LINE>50</LINE></SW1>
+  <SW2><FILE>C:\Users\Mobasher\Documents\Atmel Studio\6.1\HW6_Q2_b\HW6_Q2_b\HW6_Q2_b.asm</FILE><LINE>55</LINE></SW2>
+ </LABELS>
+</ASSEMBLER_INFO>
